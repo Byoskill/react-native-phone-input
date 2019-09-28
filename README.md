@@ -1,4 +1,4 @@
-# React Native Phone Input
+# React Native Phone Input (fork)
 
 Phone input box for React Native
 
@@ -9,13 +9,13 @@ Phone input box for React Native
 ## Installation
 
 ```
-npm i react-native-phone-input --save
+npm i byoskill-react-native-phone-input --save
 ```
 
 ## Basic Usage
 
 ```jsx
-import PhoneInput from 'react-native-phone-input'
+import PhoneInput from 'byoskill-react-native-phone-input'
 
 render(){
     return(
