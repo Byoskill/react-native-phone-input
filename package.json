@@ -1,6 +1,6 @@
 {
   "name": "byoskill-react-native-phone-input",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "description": "Phone input box for React Native",
   "main": "lib/index.js",
   "scripts": {
@@ -26,7 +26,8 @@
   "dependencies": {
     "google-libphonenumber": "^3.2.5",
     "lodash": "^4.17.15",
-    "prop-types": "^15.7.2"
+    "prop-types": "^15.7.2",
+    "react-native-masked-text": "^1.13.0"
   },
   "peerDependencies": {
     "react-native": ">= 0.61"
